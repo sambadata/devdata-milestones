@@ -77,6 +77,8 @@ DATE : 15/11/2019
 
 - [ ] Document droit à l'image à signer
 
+- [ ] Récupérer les chèques de caution
+
 - [x] Planning hebdomadaire
 
 ### PM
@@ -119,6 +121,8 @@ DATE 14/11/2019
 
 - [ ] Document droit à l'image à signer
 
+- [ ] Récupérer les chèques de caution
+
 - [x] Planning hebdomadaire
 
 ### PM
@@ -152,6 +156,8 @@ DATE 12/11/2019
 - [ ] Trombinoscope 
 
 - [ ] Document droit à l'image à signer
+
+- [ ] Récupérer les chèques de caution
 
 - [x] Planning hebdomadaire
 
