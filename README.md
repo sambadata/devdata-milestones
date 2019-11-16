@@ -7,7 +7,7 @@ A | Acquis
 ECA | En Cours d'Acquisition
 NA | Non Acquis
 ```
-## 14/11/2019
+**14/11/2019**
 ```
 ### UBUNTU 
 
@@ -39,7 +39,9 @@ Statut : ECA
 ```
 
 
-## 15/11/2019
+```
+**15/11/2019**
+```
 
 
 ### GMAIL
