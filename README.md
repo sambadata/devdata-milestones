@@ -79,6 +79,11 @@ DATE : 15/11/2019
 
 - [x] Planning hebdomadaire
 
+### PM
+⚐ **Approche projet / Activités clés, tâches, jalons** ♢ ECA
+
+⚐ **Business Coaching** ♢ ECA
+
 ```
 DATE 14/11/2019
 ```
@@ -116,6 +121,11 @@ DATE 14/11/2019
 
 - [x] Planning hebdomadaire
 
+### PM
+⚐ **Approche projet / Activités clés, tâches, jalons** ♢ ECA
+
+⚐ **Business Coaching** ♢ ECA
+
 ```
 DATE 13/11/2019
 ```
@@ -128,7 +138,8 @@ DATE 13/11/2019
 
 ### PM
 ⚐ **Approche projet / Activités clés, tâches, jalons** ♢ ECA
-⚐ **Business Coaching** ♢ A
+
+⚐ **Business Coaching** ♢ ECA
 
 ```
 DATE 12/11/2019
@@ -146,5 +157,7 @@ DATE 12/11/2019
 
 ### PM
 ⚐ **Introduction métiers de la data** ♢ ECA
+
 ⚐ **Approche projet / Problème, Solutions, Risques** ♢ ECA
-⚐ **Business Coaching** ♢ A
+
+⚐ **Business Coaching** ♢ ECA
