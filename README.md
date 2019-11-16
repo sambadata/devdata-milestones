@@ -73,7 +73,7 @@ NA | Non Acquis
 
 - [x] Ajouter les clés SSH (SSH Key) à ssh-agent 
 
-- [x] Ajouter notre clé SSH (SSH key) 
+- [x] Ajouter la clé SSH (SSH key) 
 
 - [x] Tester la connexion SSH avec github 
 
