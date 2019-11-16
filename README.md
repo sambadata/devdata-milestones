@@ -8,7 +8,7 @@ ECA | En Cours d'Acquisition
 NA | Non Acquis
 
 ```
-15/11/2019
+DATE : 15/11/2019
 ```
 
 
@@ -59,7 +59,7 @@ NA | Non Acquis
 ⚐ **Utiliser un carnet de suivi en ligne** ♢ ECA
 
 ```
-14/11/2019
+DATE 14/11/2019
 ```
 ### UBUNTU 
 
