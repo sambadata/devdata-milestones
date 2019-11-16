@@ -43,13 +43,13 @@ NA | Non Acquis
 
 - [x] Cloner le dépôt "hello-word" en local
 
-- [x] Vérifier les clés SSH existantes (SSH Keys) présent en local 
+- [x] Vérifier les clés SSH existantes (SSH Keys) présentes en local 
 
 - [x] Ajouter les clés SSH (SSH Key) à ssh-agent 
 
 - [x] Ajouter la clé SSH (SSH key) 
 
-- [x] Tester la connexion SSH avec github 
+- [x] Tester la connexion SSH avec Github en SSH 
 
 - [x] Activer les connexions SSH avec HTTPS
  
