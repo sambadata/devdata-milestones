@@ -18,7 +18,7 @@ Vendredi |09h00-12h30 & 13h30-15h00
 Temps hors formation | Meetup, Hackathon, Live
 
 
-### Journée de 
+## Journée de vendredi 
 ```
 DATE : 15/11/2019
 ```
@@ -88,6 +88,7 @@ DATE : 15/11/2019
 
 ⚐ **Business Coaching** ♢ ECA
 
+## Journée de jeudi 
 ```
 DATE 14/11/2019
 ```
@@ -132,6 +133,7 @@ DATE 14/11/2019
 
 ⚐ **Business Coaching** ♢ ECA
 
+## Mercredi 
 ```
 DATE 13/11/2019
 ```
@@ -147,6 +149,7 @@ DATE 13/11/2019
 
 ⚐ **Business Coaching** ♢ ECA
 
+## Mardi 
 ```
 DATE 12/11/2019
 ```
@@ -173,5 +176,5 @@ DATE 12/11/2019
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IGRldmRhdGEtbWlsZXN0b2
 5lcy0xMS0yMDE5XG5hdXRob3I6IFNhbWJhIENpc3NlXG50YWdz
 OiAnZGV2ZGF0YSwgbWlsZXN0b25lcydcbiIsImhpc3RvcnkiOl
-stNDQ1Mzg4NTgwXX0=
+stMTkxMDUyNDQ3MF19
 -->
