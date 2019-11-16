@@ -1,11 +1,21 @@
 # devdata-milestones
 Développeur.se Data - Suivi des livrables (jalons)
 
+### 
 Symbole | Définition
 ------------ | -------------
 A | Acquis
 ECA | En Cours d'Acquisition
 NA | Non Acquis
+
+### Dev Data - 2019 - Planning hebdomadaire
+Jours | horaires
+------------ | -------------
+Lundi / Jeudi | 09h00-12h30 & 13h30-17h30
+Vendredi |09h00-12h30 & 13h30-15h00
+Temps hors formation | Meetup, Hackathon, Live
+
+
 
 ```
 DATE : 15/11/2019
@@ -58,6 +68,17 @@ DATE : 15/11/2019
 
 ⚐ **Utiliser un carnet de suivi en ligne** ♢ ECA
 
+### PROMO 
+
+⚐ **Rentrée administrative** ♢ ECA
+- [] Documents administratifs à remettre 
+
+- [] Trombinoscope 
+
+- [] Document droit à l'image à signer
+
+- [x] Planning hebdomadaire
+
 ```
 DATE 14/11/2019
 ```
@@ -84,37 +105,46 @@ DATE 14/11/2019
 
 ⚐ **Utiliser un carnet de suivi en ligne** ♢ ECA
 
- 
+### PROMO 
 
+⚐ **Rentrée administrative** ♢ ECA
+- [] Documents administratifs à remettre 
 
+- [] Trombinoscope 
 
+- [] Document droit à l'image à signer
 
+- [x] Planning hebdomadaire
 
+```
+DATE 13/11/2019
+```
+### PROMO 
 
+⚐ **Lancement Prairie** ♢ A
+- [x] Objectifs visés
 
+- [x] Définition Collective de la Prairie
 
+### PM
+⚐ **Approche projet / Activités clés, tâches, jalons** ♢ ECA
+⚐ **Business Coaching** ♢ A
 
+```
+DATE 12/11/2019
+```
+### PROMO 
 
+⚐ **Rentrée administrative** ♢ ECA
+- [] Documents administratifs à remettre 
 
+- [] Trombinoscope 
 
+- [] Document droit à l'image à signer
 
+- [x] Planning hebdomadaire
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### PM
+⚐ **Introduction métiers de la data** ♢ ECA
+⚐ **Approche projet / Problème, Solutions, Risques** ♢ ECA
+⚐ **Business Coaching** ♢ A
