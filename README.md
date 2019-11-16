@@ -7,6 +7,7 @@ Symbole | Définition
 A | Acquis
 ECA | En Cours d'Acquisition
 NA | Non Acquis
+⚐ | Jalons
 
 ### Dev Data - 2019 - Planning hebdomadaire
 Jours | horaires
@@ -167,3 +168,9 @@ DATE 12/11/2019
 ⚐ **Approche projet / Problème(s), Solution(s), Risque(s)** ♢ ECA
 
 ⚐ **Business Coaching** ♢ ECA
+<!--stackedit_data:
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IGRldmRhdGEtbWlsZXN0b2
+5lcy0xMS0yMDE5XG5hdXRob3I6IFNhbWJhIENpc3NlXG50YWdz
+OiAnZGV2ZGF0YSwgbWlsZXN0b25lcydcbiIsImhpc3RvcnkiOl
+sxMjE5NTIzODU4XX0=
+-->
