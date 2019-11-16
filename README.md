@@ -158,6 +158,6 @@ DATE 12/11/2019
 ### PM
 ⚐ **Introduction métiers de la data** ♢ ECA
 
-⚐ **Approche projet / Problème, Solutions, Risques** ♢ ECA
+⚐ **Approche projet / Problème(s), Solution(s), Risque(s)** ♢ ECA
 
 ⚐ **Business Coaching** ♢ ECA
