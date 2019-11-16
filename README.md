@@ -6,30 +6,34 @@ Symbole | Définition
 A | Acquis
 ECA | En Cours d'Acquisition
 NA | Non Acquis
-
+```
 ## 14/11/2019
+```
+### UBUNTU 
 
-### > UBUNTU 
-```
+⚐ Travailler sur un environnement Linux Ubuntu 18.04 LTS
+**
 Statut : A
-```
+**
 
-### > CHROME BROWSER
-```
+### CHROME BROWSER
+
+⚐ Utiliser le navigateur Chrome
+**
 Statut : A
-```
+**
 
 - [x] Installer navigateur Chrome avec le terminal (en ligne de commande) 
 
 - [x] Install Google Chrome on Ubuntu 18.04 LTS from the Command Line 
 
 
-### > GIT 
+### GIT 
 ```
 Statut : ECA
 ```
 
-### > CARNET DE SUIVI
+### CARNET DE SUIVI
 ```
 Statut : ECA
 ```
@@ -38,12 +42,17 @@ Statut : ECA
 ## 15/11/2019
 
 
-### > GMAIL
+### GMAIL
+
+⚐ Créer une adresse gmail suivant le modèle prenom.nom.data@gmail.com
 ```
 Statut : A
 ```
+```
 
-### > DISCORD
+### DISCORD
+
+⚐ Ouvrir un compte sur Discord avec adresse gmail
 ```
 Statut : A
 ```
@@ -53,12 +62,12 @@ Statut : A
 - [x] creation profil utilisateur sur discord /A
 
 
-### > GIT
+⚐ GIT
 ```
 Statut : A
 ```
 
-#### créer un compte sur github
+⚐ créer un compte sur github
 ```
 Statut : A
 ```
@@ -70,7 +79,7 @@ Statut : A
 - [x] créer un nouveau dépôt 
 
 
-#### Git en local
+⚐# Git en local
 ```
 Statut : A
 ```
@@ -90,7 +99,7 @@ Statut : A
 - [x] activer les connexions SSH avec HTTPS 
 
 
-### > Carnet de suivi Dev Data
+⚐ Carnet de suivi Dev Data
 ```
 Statut : ECA
 ```
