@@ -9,10 +9,10 @@ NA | Non Acquis
 
 ## 14/11/2019
 
-### UBUNTU 
+### > UBUNTU 
 #### Statut : A
 
-### CHROME BROWSER
+### > CHROME BROWSER
 #### Statut : A
 
 - [x] Installer navigateur Chrome avec le terminal (en ligne de commande) (ok)
@@ -20,20 +20,20 @@ NA | Non Acquis
 - [x] Install Google Chrome on Ubuntu 18.04 LTS from the Command Line (ok)
 
 
-### GIT 
+### > GIT 
 #### Statut : ECA
 
-### Carnet de suivi Dev Data
+### > CARNET DE SUIVI
 #### Statut : ECA
 
 
 ## 15/11/2019
 
 
-### GMAIL
+### > GMAIL
 #### Statut : A
 
-### DISCORD
+### > DISCORD
 #### Statut : A
 
 - [x] install discord (ok)
@@ -41,7 +41,7 @@ NA | Non Acquis
 - [x] creation profil utilisateur sur discord /A
 
 
-### GIT
+### > GIT
 #### Statut : A
 
 #### créer un compte sur github
@@ -72,7 +72,7 @@ NA | Non Acquis
 - [x] activer les connexions SSH avec HTTPS (ok)
 
 
-### Carnet de suivi Dev Data
+### > Carnet de suivi Dev Data
 #### Statut : ECA
 
  
