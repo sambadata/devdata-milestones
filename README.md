@@ -6,32 +6,6 @@ Symbole | Définition
 A | Acquis
 ECA | En Cours d'Acquisition
 NA | Non Acquis
-```
-14/11/2019
-```
-### UBUNTU 
-
-⚐ **Travailler sur Ubuntu 18.04** LTS ♢ A
-
-
-### CHROME BROWSER
-
-⚐ **Utiliser le navigateur Chrome** ♢ A
-
-- [x] Installer le navigateur Chrome sur Ubuntu avec le terminal (en ligne de commande)
-
-
-### GIT
-
-⚐ **Créer un compte sur Github** ♢ ECA
-
-⚐ **Utiliser Git en local** ♢ ECA
-
-
-### BLOG
-
-⚐ **Utiliser un carnet de suivi en ligne** ♢ ECA
-
 
 ```
 15/11/2019
@@ -79,6 +53,32 @@ NA | Non Acquis
 
 - [x] Activer les connexions SSH avec HTTPS
  
+
+### BLOG
+
+⚐ **Utiliser un carnet de suivi en ligne** ♢ ECA
+
+```
+14/11/2019
+```
+### UBUNTU 
+
+⚐ **Travailler sur Ubuntu 18.04** LTS ♢ A
+
+
+### CHROME BROWSER
+
+⚐ **Utiliser le navigateur Chrome** ♢ A
+
+- [x] Installer le navigateur Chrome sur Ubuntu avec le terminal (en ligne de commande)
+
+
+### GIT
+
+⚐ **Créer un compte sur Github** ♢ ECA
+
+⚐ **Utiliser Git en local** ♢ ECA
+
 
 ### BLOG
 
