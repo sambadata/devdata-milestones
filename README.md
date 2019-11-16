@@ -7,7 +7,7 @@ Symbole | Définition
 A | Acquis
 ECA | En Cours d'Acquisition
 NA | Non Acquis
-⚐ | Fag, jalon ou livrable
+⚐ | Drapeau, flag, jalon, milestone ou livrable
 ♢ | Losange, jalon ou livrable
 
 ### Dev Data - 2019 - Planning hebdomadaire
@@ -176,5 +176,5 @@ DATE 12/11/2019
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IGRldmRhdGEtbWlsZXN0b2
 5lcy0xMS0yMDE5XG5hdXRob3I6IFNhbWJhIENpc3NlXG50YWdz
 OiAnZGV2ZGF0YSwgbWlsZXN0b25lcydcbiIsImhpc3RvcnkiOl
-s5NjQ2NTgzMzhdfQ==
+stOTE0MDk0MDEyXX0=
 -->
