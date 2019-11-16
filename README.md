@@ -1,38 +1,51 @@
 # devdata-milestones
 Développeur.se Data - Suivi des livrables (jalons)
 
-# 14/11/2019
+Symbole | Définition
+------------ | -------------
+A | Acquis
+ECA | En Cours d'Acquisition
+NA | Non Acquis
 
+## 14/11/2019
 
-## UBUNTU /A
+### UBUNTU 
+#### Statut : A
 
-## CHROME BROWSER /A
+### CHROME BROWSER
+#### Statut : A
 
 - [x] Installer navigateur Chrome avec le terminal (en ligne de commande) (ok)
 
 - [x] Install Google Chrome on Ubuntu 18.04 LTS from the Command Line (ok)
 
 
-## GIT /ECA
+### GIT 
+#### Statut : ECA
 
-## Carnet de suivi Dev Data /ECA
+### Carnet de suivi Dev Data
+#### Statut : ECA
 
 
-# 15/11/2019
+## 15/11/2019
 
 
-## GMAIL /A
+### GMAIL
+#### Statut : A
 
-## DISCORD /A
+### DISCORD
+#### Statut : A
 
 - [x] install discord (ok)
 
 - [x] creation profil utilisateur sur discord /A
 
 
-## GIT /A
+### GIT
+#### Statut : A
 
-### créer un compte sur github /A
+#### créer un compte sur github
+#### Statut : A
 
 - [x] creation profil utilisateur (ok)
 
@@ -41,7 +54,8 @@ Développeur.se Data - Suivi des livrables (jalons)
 - [x] créer un nouveau dépôt (ok)
 
 
-### Git en local /A
+#### Git en local
+#### Statut : A
 
 - [x] installer git sur ubuntu 18.04 (ok)
 
@@ -58,7 +72,8 @@ Développeur.se Data - Suivi des livrables (jalons)
 - [x] activer les connexions SSH avec HTTPS (ok)
 
 
-## Carnet de suivi Dev Data /ECA
+### Carnet de suivi Dev Data
+#### Statut : ECA
 
  
 
