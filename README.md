@@ -71,11 +71,11 @@ DATE : 15/11/2019
 ### PROMO 
 
 ⚐ **Rentrée administrative** ♢ ECA
-- [] Documents administratifs à remettre 
+- [ ] Documents administratifs à remettre 
 
-- [] Trombinoscope 
+- [ ] Trombinoscope 
 
-- [] Document droit à l'image à signer
+- [ ] Document droit à l'image à signer
 
 - [x] Planning hebdomadaire
 
@@ -108,11 +108,11 @@ DATE 14/11/2019
 ### PROMO 
 
 ⚐ **Rentrée administrative** ♢ ECA
-- [] Documents administratifs à remettre 
+- [ ] Documents administratifs à remettre 
 
-- [] Trombinoscope 
+- [ ] Trombinoscope 
 
-- [] Document droit à l'image à signer
+- [ ] Document droit à l'image à signer
 
 - [x] Planning hebdomadaire
 
@@ -136,11 +136,11 @@ DATE 12/11/2019
 ### PROMO 
 
 ⚐ **Rentrée administrative** ♢ ECA
-- [] Documents administratifs à remettre 
+- [ ] Documents administratifs à remettre 
 
-- [] Trombinoscope 
+- [ ] Trombinoscope 
 
-- [] Document droit à l'image à signer
+- [ ] Document droit à l'image à signer
 
 - [x] Planning hebdomadaire
 
