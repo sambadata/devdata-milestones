@@ -11,26 +11,26 @@ NA | Non Acquis
 ```
 ### UBUNTU 
 
-⚐ Travailler sur Ubuntu 18.04 LTS ♢ A
+⚐ **Travailler sur Ubuntu 18.04** LTS ♢ A
 
 
 ### CHROME BROWSER
 
-⚐ Utiliser le navigateur Chrome ♢ A
+⚐ **Utiliser le navigateur Chrome** ♢ A
 
 - [x] Installer le navigateur Chrome sur Ubuntu avec le terminal (en ligne de commande)
 
 
 ### GIT
 
-⚐ Créer un compte sur github ♢ ECA
+⚐ **Créer un compte sur Github** ♢ ECA
 
-⚐ Utiliser git en local ♢ ECA
+⚐ **Utiliser Git en local** ♢ ECA
 
 
 ### BLOG
 
-⚐ Utiliser un carnet de suivi en ligne ♢ ECA
+⚐ **Utiliser un carnet de suivi en ligne** ♢ ECA
 
 
 ```
@@ -40,34 +40,34 @@ NA | Non Acquis
 
 ### GMAIL
 
-⚐ Créer une adresse gmail suivant le modèle prenom.nom.data@gmail.com ♢ A
+⚐ **Créer une adresse gmail suivant le modèle prenom.nom.data@gmail.com** ♢ A
 
 
 ### DISCORD
 
-⚐ Ouvrir un compte sur Discord avec adresse gmail ♢ A
+⚐ **Ouvrir un compte sur Discord avec adresse Gmail** ♢ A
 
-- [x] Installer discord 
+- [x] Installer Discord 
 
-- [x] Créer profil utilisateur sur discord
+- [x] Créer profil utilisateur sur Discord
 
 
 ### GIT
 
-⚐ Créer un compte sur github ♢ A
+⚐ **Créer un compte sur Github** ♢ A
 
 - [x] Créer un profil utilisateur 
 
 - [x] Modifier le profil utilisateur 
 
-- [x] Créer un nouveau dépôt git
+- [x] Créer un nouveau dépôt Git
 
 
-⚐ Utiliser Git en local ♢ A
+⚐ **Utiliser Git en local** ♢ A
 
 - [x] Installer git Ubuntu 18.04 
 
-- [x] Clonerr le dépôt "hello-word" en local
+- [x] Cloner le dépôt "hello-word" en local
 
 - [x] Vérifier les clés SSH existantes (SSH Keys) présent en local 
 
@@ -82,7 +82,7 @@ NA | Non Acquis
 
 ### BLOG
 
-⚐ Utiliser un carnet de suivi en ligne ♢ ECA
+⚐ **Utiliser un carnet de suivi en ligne** ♢ ECA
 
  
 
