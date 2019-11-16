@@ -12,13 +12,13 @@ NA | Non Acquis
 ### UBUNTU 
 
 ⚐ Travailler sur un environnement Linux Ubuntu 18.04 LTS
-###### Statut: A
+###### ♦ Statut: A
 
 
 ### CHROME BROWSER
 
 ⚐ Utiliser le navigateur Chrome
-###### Statut: A
+###### ♦ Statut: A
 
 - [x] Installer le navigateur Chrome sur Ubuntu avec le terminal (en ligne de commande)
 
@@ -26,14 +26,14 @@ NA | Non Acquis
 ### GIT
 
 ⚐ Créer un compte sur github
-###### Statut: ECA
+###### ♦ Statut: ECA
 
 ⚐ Utiliser git en local
-###### Statut: ECA
+###### ♦ Statut: ECA
 
 ### BLOG
 ⚐ Utiliser un carnet de suivi en ligne
-###### Statut: ECA
+###### ♦ Statut: ECA
 
 
 ```
@@ -44,13 +44,13 @@ NA | Non Acquis
 ### GMAIL
 
 ⚐ Créer une adresse gmail suivant le modèle prenom.nom.data@gmail.com
-###### Statut: A
+###### ♦ Statut: A
 
 
 ### DISCORD
 
 ⚐ Ouvrir un compte sur Discord avec adresse gmail
-###### Statut: A
+###### ♦ Statut: A
 
 - [x] Installer discord 
 
@@ -60,7 +60,7 @@ NA | Non Acquis
 ### GIT
 
 ⚐ Créer un compte sur github
-###### Statut: A
+###### ♦ Statut: A
 
 - [x] Créer un profil utilisateur 
 
@@ -70,7 +70,7 @@ NA | Non Acquis
 
 
 ⚐ Utiliser Git en local
-###### Statut: A
+###### ♦ Statut: A
 
 - [x] Installer git Ubuntu 18.04 
 
@@ -90,7 +90,7 @@ NA | Non Acquis
 ### BLOG
 
 ⚐ Utiliser un carnet de suivi en ligne
-###### Statut: ECA
+###### ♦ Statut: ECA
 
  
 
