@@ -10,70 +10,90 @@ NA | Non Acquis
 ## 14/11/2019
 
 ### > UBUNTU 
-#### Statut : A
+```
+Statut : A
+```
 
 ### > CHROME BROWSER
-#### Statut : A
+```
+Statut : A
+```
 
-- [x] Installer navigateur Chrome avec le terminal (en ligne de commande) (ok)
+- [x] Installer navigateur Chrome avec le terminal (en ligne de commande) 
 
-- [x] Install Google Chrome on Ubuntu 18.04 LTS from the Command Line (ok)
+- [x] Install Google Chrome on Ubuntu 18.04 LTS from the Command Line 
 
 
 ### > GIT 
-#### Statut : ECA
+```
+Statut : ECA
+```
 
 ### > CARNET DE SUIVI
-#### Statut : ECA
+```
+Statut : ECA
+```
 
 
 ## 15/11/2019
 
 
 ### > GMAIL
-#### Statut : A
+```
+Statut : A
+```
 
 ### > DISCORD
-#### Statut : A
+```
+Statut : A
+```
 
-- [x] install discord (ok)
+- [x] install discord 
 
 - [x] creation profil utilisateur sur discord /A
 
 
 ### > GIT
-#### Statut : A
+```
+Statut : A
+```
 
 #### créer un compte sur github
-#### Statut : A
+```
+Statut : A
+```
 
-- [x] creation profil utilisateur (ok)
+- [x] creation profil utilisateur 
 
-- [x] modification profil utilisateur (ok)
+- [x] modification profil utilisateur 
 
-- [x] créer un nouveau dépôt (ok)
+- [x] créer un nouveau dépôt 
 
 
 #### Git en local
-#### Statut : A
+```
+Statut : A
+```
 
-- [x] installer git sur ubuntu 18.04 (ok)
+- [x] installer git sur ubuntu 18.04 
 
-- [x] Clone du dépôt "hello-word" en local (ok) 
+- [x] Clone du dépôt "hello-word" en local  
 
-- [x] Vérifier les clés SSH existantes (SSH Keys) présent en local (ok)
+- [x] Vérifier les clés SSH existantes (SSH Keys) présent en local 
 
-- [x] ajouter les clés SSH (SSH Key) à ssh-agent (ok)
+- [x] ajouter les clés SSH (SSH Key) à ssh-agent 
 
-- [x] ajouter notre clé SSH (SSH key) (ok)
+- [x] ajouter notre clé SSH (SSH key) 
 
-- [x] Tester la connexion SSH avec github (ok)
+- [x] Tester la connexion SSH avec github 
 
-- [x] activer les connexions SSH avec HTTPS (ok)
+- [x] activer les connexions SSH avec HTTPS 
 
 
 ### > Carnet de suivi Dev Data
-#### Statut : ECA
+```
+Statut : ECA
+```
 
  
 
