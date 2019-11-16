@@ -8,7 +8,7 @@ A | Acquis
 ECA | En Cours d'Acquisition
 NA | Non Acquis
 ⚐ | Drapeau, flag, jalon, milestone ou livrable
-♢ | Losange, jalon ou livrable
+♢ | Losange, jalon, milestone ou livrable
 
 ### Dev Data - 2019 - Planning hebdomadaire
 Jours | horaires
@@ -176,5 +176,5 @@ DATE 12/11/2019
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IGRldmRhdGEtbWlsZXN0b2
 5lcy0xMS0yMDE5XG5hdXRob3I6IFNhbWJhIENpc3NlXG50YWdz
 OiAnZGV2ZGF0YSwgbWlsZXN0b25lcydcbiIsImhpc3RvcnkiOl
-stOTE0MDk0MDEyXX0=
+stMTQ1NzE1NDUwXX0=
 -->
